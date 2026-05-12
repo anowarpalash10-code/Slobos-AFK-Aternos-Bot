@@ -27,13 +27,13 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
-      "repeat": true,
+      "enabled": false,
+      "repeat": false,
       "repeat-delay": 120,
       "messages": [
-        "gop gop gop gop",
-        "join our discord server for giveway",
-        "vera khao maraaaaa"
+        "",
+        "",
+        ""
       ]
     },
     "chat-log": true,
